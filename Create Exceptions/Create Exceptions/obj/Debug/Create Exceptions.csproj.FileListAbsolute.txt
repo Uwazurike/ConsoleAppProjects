@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Create Exceptions\Create Exceptions\bin\Debug\Create Exceptions.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Create Exceptions\Create Exceptions\bin\Debug\Create Exceptions.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Create Exceptions\Create Exceptions\bin\Debug\Create Exceptions.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Create Exceptions\Create Exceptions\obj\Debug\Create Exceptions.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Create Exceptions\Create Exceptions\obj\Debug\Create Exceptions.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Create Exceptions\Create Exceptions\obj\Debug\Create Exceptions.pdb
