@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Factoring Recursively\Factoring Recursively\bin\Debug\Factoring Recursively.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Factoring Recursively\Factoring Recursively\bin\Debug\Factoring Recursively.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Factoring Recursively\Factoring Recursively\bin\Debug\Factoring Recursively.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Factoring Recursively\Factoring Recursively\obj\Debug\Factoring Recursively.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Factoring Recursively\Factoring Recursively\obj\Debug\Factoring Recursively.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Factoring Recursively\Factoring Recursively\obj\Debug\Factoring Recursively.pdb

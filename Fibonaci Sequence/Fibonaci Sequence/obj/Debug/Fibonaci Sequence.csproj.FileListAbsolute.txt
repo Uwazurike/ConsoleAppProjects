@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Fibonaci Sequence\Fibonaci Sequence\bin\Debug\Fibonaci Sequence.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Fibonaci Sequence\Fibonaci Sequence\bin\Debug\Fibonaci Sequence.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Fibonaci Sequence\Fibonaci Sequence\bin\Debug\Fibonaci Sequence.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Fibonaci Sequence\Fibonaci Sequence\obj\Debug\Fibonaci Sequence.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Fibonaci Sequence\Fibonaci Sequence\obj\Debug\Fibonaci Sequence.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Fibonaci Sequence\Fibonaci Sequence\obj\Debug\Fibonaci Sequence.pdb

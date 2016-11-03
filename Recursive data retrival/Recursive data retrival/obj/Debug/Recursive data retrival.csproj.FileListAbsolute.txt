@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Recursive data retrival\Recursive data retrival\bin\Debug\Recursive data retrival.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Recursive data retrival\Recursive data retrival\obj\Debug\Recursive data retrival.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Recursive data retrival\Recursive data retrival\bin\Debug\Recursive data retrival.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Recursive data retrival\Recursive data retrival\bin\Debug\Recursive data retrival.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Recursive data retrival\Recursive data retrival\obj\Debug\Recursive data retrival.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Recursive data retrival\Recursive data retrival\obj\Debug\Recursive data retrival.pdb
